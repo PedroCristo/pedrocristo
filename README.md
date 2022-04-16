@@ -2,9 +2,11 @@
 # Hello There! I'm Pedro.
 ✔😎😃
 # <div align="center">
+  <div style="display: inline-block">
   # <a href="https://github.com/PedroCristo">
   # <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroCristo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   # <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroCristo&layout=compact&langs_count=7&theme=dracula"/>
+    </div>
 # </div>
  # ![Snake animation](images/github-contribution-grid-snake.svg)
   <br>
