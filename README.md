@@ -1,3 +1,5 @@
+<body style="background: black">
+
 # Hello There! I'm Pedro.✔
 # <div align="center">
   # <a href="https://github.com/PedroCristo">
@@ -17,3 +19,5 @@
  
   # ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 # </div>
+  
+  </body>
