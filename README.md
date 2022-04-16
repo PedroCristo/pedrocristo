@@ -1,4 +1,4 @@
-<body style="background: black">
+<body style="background-color: red">
 
 # Hello There! I'm Pedro.✔
 # <div align="center">
